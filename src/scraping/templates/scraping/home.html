@@ -1,0 +1,27 @@
+{% extends 'layouts/base.html' %}
+
+{% block title %} Home Page {% endblock %}
+{% block content %}
+{% for qs in query %}
+<div class="card my-3">
+    <h5 class="card-header"><a href="{{ qs.url }}">{{ qs.title }}</a></h5>
+    <div class="card-body">
+        <p class="card-text">{{ qs.description }}</p>
+        <h2>{{ qs.company }}</h2>
+        <p> {{ qs.city.name }} | {{ qs.language.name }} <br>
+            <small> {{ qs.timestamp|date:'d.m.Y' }}</small>
+        </p>
+    </div>
+</div>
+{% endfor %}
+<div class="row mx-auto ">
+    <div class="col-md-6">
+        <form action="" method="get">
+            <div class="form-group">
+                {{ form.as_p }}
+            </div>
+        <input type="submit" class="btn btn-primary" value="Submit">
+    </form>
+    </div>
+</div>
+{% endblock %}
