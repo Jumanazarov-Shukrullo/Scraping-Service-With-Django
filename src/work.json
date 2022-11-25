@@ -1,352 +1,122 @@
 [
     {
-        "url": "https://tashkent.hh.uz/vacancy/71660601?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Vue JS - разработчик",
-        "company": "ООО Olcha Store",
-        "description": "Разработка нового веб-сервиса. И т.д. (объяснят во время собеседования).Желание совершенствоваться. Опыт работы в JavaScript (ES6 +) и Vue.js от 1 года. Знание CSS (SASS), создание адаптивной и...",
-        "city": "Ташкент"
+        "url": "https://tashkent.hh.uz/vacancy/71770727?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "title": "Программист Python",
+        "company": "Spacecode",
+        "description": "Разработка сайтов и веб-сервисов. Разработка мобильных приложений. Веб-дизайн. Сможете интегрировать проект с внешними информационными системами через API. Имеете опыт коммерческой разработки на Django от 1 года. Знаете Python3, PostgreSQL, JS, HTML5, CSS3. "
     },
     {
-        "url": "https://tashkent.hh.uz/vacancy/71650687?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Fullstack Developer - React (Mentor) / Intern",
-        "company": "ООО NAPA AUTOMOTIVE",
-        "description": "Jr. Software Developer:Fullstack Development in Javascript or other object oriented programming language with React. The Jr Developer Program is a unique employment...",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/71728463?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
+        "url": "https://tashkent.hh.uz/vacancy/71728463?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
         "title": "Программист-ментор Python",
         "company": "Inflex Inc TM Personal Development Process",
-        "description": "Python developer sifatida 1 yildan ortiq tajriba bo'lishi shart. O'z bilim va fikrlarini oddiy tilda ifodalay olishi kerak. Python, Jango bo'yicha yosh va sifatli kadrlarni tayorlash uchun mentor(ustoz) kerak. Yarim kun yoki kun-ora ishlasa ham...",
-        "city": "Ташкент"
+        "description": "Python developer sifatida 1 yildan ortiq tajriba bo'lishi shart. O'z bilim va fikrlarini oddiy tilda ifodalay olishi kerak. Python, Jango bo'yicha yosh va sifatli kadrlarni tayorlash uchun mentor(ustoz) kerak. Yarim kun yoki kun-ora ishlasa ham..."
     },
     {
-        "url": "https://tashkent.hh.uz/vacancy/71414079?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "C# разработчик / С# Developer",
-        "company": "ООО Jing Technology",
-        "description": "Разработка и сопровождение десктопных приложений и баз данных. Техническое развитие продукта. Создание критически важных, высококачественных программных продуктов. Участие в принятии...Какие знания и умения мы ожидаем от разработчика. Отличное знание C# на уровне middle-разработчика и выше. Уверенное владение .NET...",
-        "city": "Ташкент"
+        "url": "https://tashkent.hh.uz/vacancy/72662248?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "title": "Middle+/Senior Python developer",
+        "company": "ProductFit",
+        "description": "Можно из домаСтартап студия (заказная разработка для стартапов с нуля под ключ, технический и продуктовый консалтинг, создание MVP или MLP). "
     },
     {
-        "url": "https://tashkent.hh.uz/vacancy/71628692?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "WEB-разрботчик",
-        "company": "ООО Arsenal D",
-        "description": "Работа в команде над разработкой и поддержкой информационных систем различного масштаба, базы данных (SQL) и различных фреймворков.Основы HTML, CSS (любой программист должен знать основы верстки). Предпочтительно знать фреймворк Yii2 или Django. Знание любого фреймворка JS . ",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/71136790?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Backend Developer",
-        "company": "ООО Перфект Системс",
-        "description": "Можно из домаРазработка ПО - web приложения в соответствии с техническим заданием. Проектирование. Написание кода. Пусконаладочные работы. Участие в командных мероприятиях по сбору...",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/71634981?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Инженер-программист Oracle (оптимизация данных)",
-        "company": "Colvir Software Solutions",
-        "description": "Оптимизацией программного кода под управлением СУБД Oracle. Мониторингом и оптимизацией производительности СУБД. Поддержкой внедрения продукта у Клиента. Сопровождение нашей информационной...Имеете высшее техническое образование. Владеете навыками разработки реляционных баз данных. Отлично владеете SQL, опыт практического использования от 2-х лет. ",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/69852882?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Программист JavaScript (JavaScript developer)",
-        "company": "ООО Ascensio System",
-        "description": "Можно из домаРазработка офисного пакета приложений (документы, таблицы, презентации), работающего в web и на мобильных устройствах. Написание алгоритмов стороне frontend-а на...",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/70328176?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Программист 1С",
-        "company": "ООО VENKON",
-        "description": "Будьте первымиТиповые конфигурации “1С” для Узбекистана. Сервис электронного документооборота Didox.uz. Комплексные системы управления на базе 1С. Настройка обменов между...",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/70890977?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Middle Front-end Developer (удаленно)",
-        "company": "ИП Muxtarova Anna Irikovna",
-        "description": "Можно из домаРазработка клиентской части web-приложений согласно ТЗ. Активное участие в обсуждении задач. Ведение технической документации (инструкции по деплою и сборке). ",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/70787417?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Delphi разработчик",
-        "company": "Auslogics Labs Pty Ltd",
-        "description": "Можно из домаДобавление нового функционала в существующее ПО. Исправление ошибок в ПО (тикеты от отдела тестирования и от пользователей). Базовое тестирование нового...",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/70890800?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Full-Stack Developer VueJS+Laravel (удаленно)",
-        "company": "ИП Muxtarova Anna Irikovna",
-        "description": "Можно из домаРазработка программного обеспечения согласно ТЗ. Активное участие в обсуждении задач. Ведение технической документации (инструкции по деплою, схематичное описание технических нюансов...",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/70116136?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Senior Backend Developer",
-        "company": "ООО Перфект Системс",
-        "description": "Можно из домаCi / circleci / travis / google cloud build / jenkins / atlassian bamboo. Vuejs / react / angular и другие фреймворки. Webpack / gulp / grant и другие...",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/71479883?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Программист 1С",
-        "company": "PRIZMA GROUP CO",
-        "description": "Будьте первымиОбновление и доработка типовых и не типовых конфигураций 1С. Перенос данных. Синхронизация со сторонними приложениями и сайтами. Консультация пользователей. ",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/70950499?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Программист 1С",
-        "company": "ООО SDT (Strategic Development Team)",
-        "description": "Будьте первымиИнструктирование и поддержка пользователей. Разработка и сопровождение программного комплекса в розничной сфере. Работа в типовых конфигурациях 1С (КА, БП...",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/70359757?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Junior .NET-разработчик",
-        "company": "Micros Development",
-        "description": "Frontend-разработкой (UI, UX, версткой, обычной клиентской разработкой). Backend-разработкой (серверной части продукта, отдельных сервисов и библиотек, используемых в продукте...Работа с данными: MS SQL Server/Postgres. Backend: .NET Framework 4.5, WCF, ASP.NET. Frontend: JavaScript ES6, ES7...",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/71378701?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Ведущий программист 1С/ senior",
-        "company": "ООО ТопФактор",
-        "description": "Будьте первымиРазработка архитектуры ПП. Разработка внутренних тиражных ПП. Разработка мобильных приложений. Разработка новых интерфейсов. Работа над интеграциями с другими системами. ",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/71068730?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Архитектор программных решений",
-        "company": "ООО BRIO GROUP",
-        "description": "Будьте первымиПроектировать программную архитектуру модулей/сервисов взаимодействия и интеграционных решений. Декомпозировать задачи и приоритизировать их программистам для реализации отдельных модулей/сервисов...",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/54314619?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Intern .NET Developer",
-        "company": "Itransition",
-        "description": "Посещение лекций и практических занятий. Выполнение задач по проектированию и разработке ПО. Самостоятельная работа с учебной литературой и видеоматериалами. Знание основ программирования (.NET). Понимание принципов разработки Web-проектов. Понимание основ работы систем контроля версий (Git, Subversion). Свободное владение русским...",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/70002893?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Senior Back-end разработчик",
-        "company": "ООО Green White Solutions",
-        "description": "Отладка, написание модульных и интеграционных тестов. Участие при формировании архитектуры приложений и их модулей (для разработчиков уровня Middle и Senior).Компьютерная грамотность. Знание русского/узбекского и английского языков. Знание Oracle SQL и PL/SQL. Логическое мышление. Аналитический склад ума. Дисциплинированность. ",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/71706644?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Программист 1С",
-        "company": "ООО Texnomart",
-        "description": "Будьте первымиТехническое сопровождение и настройка параметров информационной системы, программирование в рамках поставленной задачи. Адаптация, кастомизация и сопровождение информационной системы. ",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/70861454?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Full stack Laravel & Vue.js Developer (Middle/Senior)",
+        "url": "https://tashkent.hh.uz/vacancy/72065744?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "title": "Python Developer (Middle/Senior)",
         "company": "OGD Solutions",
-        "description": "Excellent knowledge with Eloquent ORM - Relationships, Accessors & Mutators, etc. Experience with Docker, Laravel Broadcasting, Rate limiting, Swagger documentation.At least 3 years of commercial experience as a Full-stack Laravel & Vue developer. Understanding of code versioning, Git, or...",
-        "city": "Ташкент"
+        "description": "4+ years experience with Python. Experience with Django/Flask. Experience with Linux, Git. Git, Linux. Proficiency in English B..."
     },
     {
-        "url": "https://tashkent.hh.uz/vacancy/70219245?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Программист 1С",
-        "company": "СП ООО Silkway jewellery manufacture",
-        "description": "Будьте первымиРазработка программных продуктов. Изменение и исправление программного обеспечения 1С предприятие. Обучение персонала и сопровождение программного продукта 1С.",
-        "city": "Ташкент"
+        "url": "https://tashkent.hh.uz/vacancy/72127335?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "title": "Программист Python",
+        "company": "ООО ARHAT HOLDING",
+        "description": "1. Приобретение товара в рассрочку на оффлайн точках, такие как Mediapark, Texnomart и т.д.Опыт коммерческой разработки на Python (FastApi) от 3-х лет (ООП, многопоточность), в идеале - опыт разработки системы, работающей под высокой..."
     },
     {
-        "url": "https://tashkent.hh.uz/vacancy/71309538?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Backend разработчик (CRM)",
-        "company": "HamkorBank",
-        "description": "Участвовать в разработке интеграционных решений с внешними системами (ИАБС, микросервисы). Делать постановку задач разработчикам внутри команды проекта. Проводить code-review...Умение находить общий язык и донести свою точку зрения бизнес-экспертам и разработчикам. Позитивный взгляд на вещи и умение искать...",
-        "city": "Ташкент"
+        "url": "https://tashkent.hh.uz/vacancy/72543041?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "title": "DevOps инженер (Junior)",
+        "company": "ООО Ехpress24",
+        "description": "Умение работать в командной строке Linux. Знание синтаксиса Bash или Python. Базовые представления о работе веб-сервисов и протоколов TCP..."
     },
     {
-        "url": "https://tashkent.hh.uz/vacancy/71307416?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Backend Developer на Symfony (Middle)",
-        "company": "Creative",
-        "description": "Участвовать в проработке архитектурных решений. Работать в тесном взаимодействии с client-side разработчиками. Принимать участие в планировании процесса разработки. Имеешь глубокие знания в PHP, фреймворка Symfony (5+). Разбираешься в DevOps инструментах.",
-        "city": "Ташкент"
+        "url": "https://tashkent.hh.uz/vacancy/72427790?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "title": "Middle Backend / Python (remote)",
+        "company": "ООО ТЛ Групп",
+        "description": "Можно из домаРазработка пользовательских сервисов ( back-end части), включая: Разработка backend. Написание unit тестов. Написание документации по доработанному функционалу."
     },
     {
-        "url": "https://tashkent.hh.uz/vacancy/71398381?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Ведущий программист",
-        "company": "Национальный банк внешнеэкономической деятельности Республики Узбекистана",
-        "description": "Участие в разработке структур хранилища данных. Разработка новых ETL - процессов и поддержка существующих. Работа с SAP : LUMIRA, BO, ANALYSIS, DATA...Уверенные знания SQL. Хорошие знания основ построения BI. Умение программировать на ABAP. Понимание специфики банковской деятельности. Высшее образование ( техническое приветствуется ).",
-        "city": "Ташкент"
+        "url": "https://tashkent.hh.uz/vacancy/71252015?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "title": "Преподаватель Python/Django",
+        "company": "ООО Компьютерная Академия IT STEP",
+        "description": "Обучение слушателей Python/Django. Регулярная проверка домашнего задания. Разработанная и отточенная методика преподавания.Развитие не только теоретических знаний, но и практических умений и навыков Python/Django у слушателей. Отличное знание Python/Django. "
     },
     {
-        "url": "https://tashkent.hh.uz/vacancy/71391399?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Middle Back-end разработчик",
-        "company": "ООО Green White Solutions",
-        "description": "Отладка, написание модульных и интеграционных тестов. Участие при формировании архитектуры приложений и их модулей (для разработчиков уровня Middle и Senior).Компьютерная грамотность. Знание русского/узбекского и английского языков. Знание Oracle SQL и PL/SQL. Логическое мышление. Аналитический склад ума. Дисциплинированность. ",
-        "city": "Ташкент"
+        "url": "https://tashkent.hh.uz/vacancy/72286050?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "title": "Strong Middle Python developer",
+        "company": "QIWI UZBEKISTAN",
+        "description": "Разработка функционала на базе вендорского процессинга. Поддержка и развитие платежных продуктов на базе вендорского процессинга. Обеспечение интеграции с внешними инфосервисами...Hard skills: -Python 3.6+. -Понимание и использование асинхронности. -Понимание мультипоточности. -Владение следующими фреймворками: Flask, FastApi, Starlette. -SQL Alchemy. -"
     },
     {
-        "url": "https://tashkent.hh.uz/vacancy/71668050?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Программист 1С",
-        "company": "Кондитерский Дом Куликовский",
-        "description": "Будьте первымиРазвитие и сопровождение текущих информационных систем компании (1С: Розница и 1С: Комплексная конфигурация 2.4). Работа с торговым...",
-        "city": "Ташкент"
+        "url": "https://tashkent.hh.uz/vacancy/71877677?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "title": "Разработчик уровня Middle/Senior",
+        "company": "OOO SAAS MARKET",
+        "description": "Южно-корейская компания по разработке программного обеспечения в поиске разработчика уровня MIDDLE/SENIOR.Какие навыки нужны: Знание русского и английского языков. Python (обязательно). C++ (обязательно). Другие языки программирования будут большим преимуществом."
     },
     {
-        "url": "https://tashkent.hh.uz/vacancy/71071046?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Программист ASP.NET",
-        "company": "АКБ Агробанк",
-        "description": "Разрабатывать веб-сервисы на .Net Core, участвовать в проектировании архитектуры систем. Общаться с ПМ, дизайнером, DevOps, тестировщиками для обсуждения бизнес...3+ лет опыта работы с .NET Core, с ее нюансами и кросс-платформенной составляющей. Уверенное знание C #, .NET...",
-        "city": "Ташкент"
+        "url": "https://tashkent.hh.uz/vacancy/72047249?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "title": "Backend разработчик Python (Middle/Senior)",
+        "company": "INSANE GROUP CO",
+        "description": "написание читаемого, тестируемого и эффективного кода. - разработка backend на Python Django/FastAPI. - разработка микросервисных решений. - интеграции с различными внешними системами. 2+ лет коммерческого опыта в разработке. - понимание SQL/NoSQL. - умение писать SQL запросы. - опыт разработки RESTful API. - понимание GraphQL. "
     },
     {
-        "url": "https://tashkent.hh.uz/vacancy/54314739?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Intern PHP Developer",
+        "url": "https://tashkent.hh.uz/vacancy/71238883?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "title": "Python/Java fullstack разработчик",
+        "company": "ООО «COSCOM» ТМ Ucell",
+        "description": "Разрабатывает, модифицирует и предоставляет отчеты для заинтересованных департаментов. Принимает участие в разработке решений и пишет техническую документацию. Принимает участие в...Высшее технические образование. Java EE или Python. JavaScript HTML, CSS - предпочтительно. Опыт в разработке архитектуры клиент-серверного приложения. "
+    },
+    {
+        "url": "https://tashkent.hh.uz/vacancy/71324827?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "title": "Преподаватель по курсу Python - разработчик (со знанием узбекского языка)",
+        "company": "ООО UBRAINS",
+        "description": "Подготовка материалов к съемкам видеоуроков на местном языке (перевод на узбекский планов модулей, сценария, презентаций). Участие в съемках видеоуроков в...Опыт разработки на python от 2х лет. Владение узбекским языком. Опыт работы наставником, ментором или преподавателем. Умение объяснять технически..."
+    },
+    {
+        "url": "https://tashkent.hh.uz/vacancy/71037989?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "title": "Senior Python Developer",
+        "company": "iTechArt Group",
+        "description": "Участие в полном цикле разработки программного обеспечения. Написание высококачественного кода на Python. Проведение code review. Общение напрямую с англоязычными заказчиками....Pandas и др. Разговорный английский язык не ниже Intermediate уровня. В курсе последних технических достижений в области разработки на Python."
+    },
+    {
+        "url": "https://tashkent.hh.uz/vacancy/72183249?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "title": "Преподаватель по Python в учебный центр",
+        "company": "ООО TEHNIKUM CODE",
+        "description": "Проведение занятий. Частичная проверка домашних заданий. Коммуникация со студентами вашей группы в телеграм. Обновление и адаптация программы.Python. Flask. Docker. PostgreSQL. Git. Опыт создания Restful API. Русский язык в совершенстве."
+    },
+    {
+        "url": "https://tashkent.hh.uz/vacancy/71065307?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "title": "Senior Python Engineer (Flask, FastApi, Starlette)",
+        "company": "Person Hunters, ООО",
+        "description": "Разработка функционала на базе вендорского процессинга. Поддержка и развитие платежных продуктов на базе вендорского процессинга. Обеспечение интеграции с внешними инфосервисами...Python 3.6+. Понимание и использование асинхронности. Понимание мультипоточности. Владение следующими фреймворками: Flask, FastApi, Starlette. SQL Alchemy. "
+    },
+    {
+        "url": "https://tashkent.hh.uz/vacancy/71827256?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "title": "Fullstack Python Developer",
+        "company": "Nitka Technologies",
+        "description": "Можно из домаБез проблем переключается между задачами на frontend и backend."
+    },
+    {
+        "url": "https://tashkent.hh.uz/vacancy/71677772?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "title": "Python Middle+ Developer",
         "company": "Itransition",
-        "description": "Посещение лекций и практических занятий. Выполнение задач по проектированию и разработке ПО. Самостоятельная работа с учебной литературой и видеоматериалами. Знание основ программирования (PHP). Понимание принципов разработки Web-проектов. Понимание основ работы систем контроля версий (Git, Subversion). Свободное владение русским...",
-        "city": "Ташкент"
+        "description": "2,5+ years of experience in IT. Experience in Python web development with any web framework (Django, Flask, etc.). "
     },
     {
-        "url": "https://tashkent.hh.uz/vacancy/70580759?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Программиста 1С",
-        "company": "ООО SOFTTEAM PRO",
-        "description": "Будьте первымиСамостоятельная реализация необходимых доработок под потребности заказчиков. - Анализ и решение задач клиентов по автоматизации с использованием продуктов 1С. - ",
-        "city": "Ташкент"
+        "url": "https://tashkent.hh.uz/vacancy/72721514?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "title": "Преподаватель Python / Django",
+        "company": "ООО Raqamli Dunyo",
+        "description": "Обучение слушателей Python/Django. Регулярная проверка домашнего задания. Систематизированная, горизонтальная операционная управления по формату Agile.Развитие не только теоретических знаний, но и практических умений и навыков Python/Django у слушателей. Отличное знание Python/Django. "
     },
     {
-        "url": "https://tashkent.hh.uz/vacancy/68576645?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Программист 1C (Junior)",
-        "company": "Первый Бит",
-        "description": "Доработка различных конфигураций на платформе 1С. Консультирование и обучение пользователей работы в 1С. Внедрение и сопровождение 1С.Наличие успешного опыта в области разработки на 1С: Предприятие 8.3 - не менее полугода. Владение хотя бы одним из...",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/70870971?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": ".Net Developer (Middle/Senior)",
-        "company": "OGD Solutions",
-        "description": "In-depth understanding of the entire web development process (design, development, and deployment). Deep understanding of ADO.NET, Dapper, Entity Framework. ",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/71425062?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Программист-внедренец Bitrix24",
-        "company": "Первый Бит",
-        "description": "Выполнение работ по внедрению и настройки Bitrix24. Обучение и консультирование пользователей по ведению учета в Bitrix24. Мы ищем энергичного и позитивного коллегу. Способного в короткие сроки разобраться с вверенной зоной ответственности. Желание обучаться и развиваться в...",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/71009554?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Программист 1С",
-        "company": "ООО Марк Формэль",
-        "description": "Разработка ПО согласно требованиям внутренних заказчиков. Составление технических заданий согласно листу требований заказчика. Разработка новых, а также внесение изменений в...Обязателен опыт работы в выполнении схожих обязанностей. Желательно высшее образование. Аналитический склад ума. Знание 1С. Опыт работы с подрядчиками...",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/70884125?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Инженер-программист",
-        "company": "АО Навоийский горно-металлургический комбинат",
-        "description": "работать в проектной команде с консультантами и другими разработчиками. - разработка и ведение проектной и технической документации. Организовывать работу по совершенствованию...1С: Опыт программирования в среде 1С от 1 до 3 лет. Знание стандартов разработки 1С. ",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/70884101?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Разработчик программного обеспечения (Ментор)",
-        "company": "ООО NAJOT TA’LIM MARKAZI",
-        "description": "Cвободноe владение узбекским языком. Опыт работы не менее двух лет. Продвинутое знание языка программирования C. Умеет работать с windows и...",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/70806331?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Программист 1С",
-        "company": "ООО Агромир",
-        "description": "Техническая поддержка и обслуживание пользователей. Обслуживание и консультация пользователей программы 1С. Добросовестное выполнение поручений руководителя. Помощь в техническом обслуживании...Программирование в среде 1С 7.7 от 1 года. Уверенное программирование в среде 1С 8.1 не менее...",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/48713357?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "PHP Yii2 программист",
-        "company": "Энсайн (Nsign.ru)",
-        "description": "Создание программной структуры интерактивных сервисов. Внедрение шаблонов вёрстки (HTML, CSS, JQ). Правки в структуру и шаблоны CMS (Yii2, PHP). Для уровня middle и выше - потребуются примеры ваших проектов и кода. Само собой, вы должны хорошо знать фреймворк Yii2...",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/70238233?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Программист 1С",
-        "company": "СП ООО DAAC DKG Infosystems",
-        "description": "Будьте первымиМожно из дома",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/70865427?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Программист Pl/SQL",
-        "company": "АО КДБ Банк Узбекистан",
-        "description": "Умение писать SQL запросы и работа с ORACLE. Навык оптимизации SQL запросов. Умение и желание работать с чужим кодом. ",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/71702026?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Программист 1С",
-        "company": "ООО Fides Solutions",
-        "description": "Будьте первымиИсполнять поставленные задачи. Участие во внедрении разработанного функционала на объекте заказчика. Доработка существующих разработок , анализ и оптимизация проблемных мест в...",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/71462933?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Инженер-программист",
-        "company": "ООО PROMKIPAVTOMATIKA ENGINEERING",
-        "description": "Будьте первымиРазработка систем Диспетчеризации, MES. Участие в подготовке технических предложений. Разработка документации.",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/71035371?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Веб-программист",
-        "company": "ООО Baltic Center",
-        "description": "Разработка WEB-проектов (домашние страницы, порталы, информационные системы). Сопровождение и дополнение существующих проектов.Знания и опыт работы: PHP/HTML/CSS/JavaScript; Drupal 8; React, JavaScript (ES6). Свободное владение английским языком. ",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/70868813?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Программист React (Next Js)",
-        "company": "ООО INTER NATION SCHOOL",
-        "description": "Проектирование и разработка интерфейса приложения крупных CRM, ERP и ERP систем. Проведение code-review, документирование кода. Участие в проектировании и...Знание узбекского языка. CSS3/Sass, HTML5, JS (ES6), TypeScript. React JS, Next JS, Redux. Опыт работы с...",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/70977762?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Программист-разработчик",
-        "company": "ООО UZINFOCOM",
-        "description": "Участие в разработке архитектуры новых проектов. Доработка, поддержка и развитие существующих проектов. Интеграция со сторонними сервисами.Наличие высшего образования. - Опыт работы с REST API или создания собственных API. - Опыт работы с Yii2. - Знание NodeJs, VueJs...",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/70868340?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Senior PHP-программист",
-        "company": "ООО INTER NATION SCHOOL",
-        "description": "Разработка REST API и Microservice проектов. Интеграция с CRM, LMS и другими системами. Обеспечение технической поддержки наших нынешних проектов. PHP 7 Yii2, Nginx, MySQL и PostgreSQL 5+ года. CI-CD, AWS, Unit Testing. Управление командами разработчиков Front...",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/70221402?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Middle PHP программист",
-        "company": "ООО Creative people",
-        "description": "Будьте первымиРабота с базами данных и их организация. Обеспечение корректного функционирования сайта. Разработка алгоритмов для приложений. Интеграция приложения или сайта с...",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/70665545?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Начальник/ведущий специалист отдела программистов",
-        "company": "Государственное унитарное предприятие «Центр внедрения информационных технологий»",
-        "description": "Выполнение требований должностной инструкции.Наличие высшего образования в области информационно-коммуникационных технологий. Наличие не менее 2-х лет опыта работы в сфере информационно-коммуникационных...",
-        "city": "Ташкент"
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/70786798?query=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
-        "title": "Tech Lead",
-        "company": "ООО Design.uz",
-        "description": "Руководство архитектурой и реализацией нескольких микросервисных веб-приложений, занимающихся оркестрацией многооблачной инфраструктуры. Выявление технического долга, управление техническим долгом и дорожной...Умение свободно говорить и писать на английском языке. Предпочтительная квалификация: Опыт управления командами программистов от 2-х лет. ",
-        "city": "Ташкент"
+        "url": "https://tashkent.hh.uz/vacancy/72410690?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "title": "Data scientist Neuron network",
+        "company": "Rochwin",
+        "description": "Работа с данными в нейронных сетях. Сортировка данных. Программировать на языке Python. Извлекать данные, обрабатывать их, сортировать полученные данные, передавать...Опыт работы c Google, Yandex метриками. Знание вычислительной математики."
     }
 ]
