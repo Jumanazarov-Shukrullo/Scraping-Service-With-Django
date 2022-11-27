@@ -5,8 +5,9 @@
 {% endblock %}
 
 {% block content %}
+<div class="container">
 <div class="row mx-auto ">
-    <h2>Something here </h2>
+    <h2 class="text-center">Something here </h2>
     <div class="col-md-6 mx-auto">
         <form action="{% url 'list' %}" method="get">
             <div class="form-group">
@@ -16,6 +17,7 @@
             Find
         </button>
     </form>
+    </div>
     </div>
 </div>
 {% endblock %}

@@ -1,0 +1,13 @@
+@font-face {
+    font-family: ;
+    src: url(../fonts/NerkoOne-Regular.ttf);
+}
+
+#brand {
+    font-family: NerkoOne-Regular.ttf;
+    color: #fff;
+}
+
+.navbar {
+    background-image: linear-gradient(55deg, darkslategray, black);
+}

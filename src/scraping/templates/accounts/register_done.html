@@ -1,0 +1,14 @@
+{% extends 'layouts/base.html' %}
+
+{% block title %}
+    Login
+{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-md-8 mx-auto">
+        <h4 class="my-2">Welcome new user {{ new_user.email }}</h4>
+        <p>You have registered in our system. Now You can <a href="{% url 'login' %}">enter</a></p>
+    </div>
+</div>
+{% endblock %}

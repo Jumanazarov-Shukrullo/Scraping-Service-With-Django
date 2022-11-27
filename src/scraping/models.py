@@ -54,7 +54,7 @@ class Vacancy(models.Model):
     class Meta:
         verbose_name = 'Vacancy'
         verbose_name_plural = 'Vacancies'
-        ordering = ('-timestamp', )
+        ordering = ('-timestamp',)
 
     def __str__(self):
         return f"{self.title}"
@@ -63,6 +63,9 @@ class Vacancy(models.Model):
 class Error(models.Model):
     timestamp = models.DateTimeField(auto_now_add=True)
     data = jsonfield.JSONField()
+
+    def __str__(self):
+        return str(self.timestamp)
 
 
 class Url(models.Model):

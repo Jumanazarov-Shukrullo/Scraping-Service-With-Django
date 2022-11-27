@@ -1,17 +1,17 @@
 [
     {
-        "url": "https://tashkent.hh.uz/vacancy/71728463?from=vacancy_search_list&query=python",
-        "title": "Программист-ментор Python",
-        "company": "Inflex Inc TM Personal Development Process",
-        "description": "Python developer sifatida 1 yildan ortiq tajriba bo'lishi shart. O'z bilim va fikrlarini oddiy tilda ifodalay olishi kerak. Python, Jango bo'yicha yosh va sifatli kadrlarni tayorlash uchun mentor(ustoz) kerak. Yarim kun yoki kun-ora ishlasa ham...",
-        "city_id": 1,
-        "language_id": 1
-    },
-    {
         "url": "https://tashkent.hh.uz/vacancy/71770727?from=vacancy_search_list&query=python",
         "title": "Программист Python",
         "company": "Spacecode",
         "description": "Разработка сайтов и веб-сервисов. Разработка мобильных приложений. Веб-дизайн. Сможете интегрировать проект с внешними информационными системами через API. Имеете опыт коммерческой разработки на Django от 1 года. Знаете Python3, PostgreSQL, JS, HTML5, CSS3. ",
+        "city_id": 1,
+        "language_id": 1
+    },
+    {
+        "url": "https://tashkent.hh.uz/vacancy/71728463?from=vacancy_search_list&query=python",
+        "title": "Программист-ментор Python",
+        "company": "Inflex Inc TM Personal Development Process",
+        "description": "Python developer sifatida 1 yildan ortiq tajriba bo'lishi shart. O'z bilim va fikrlarini oddiy tilda ifodalay olishi kerak. Python, Jango bo'yicha yosh va sifatli kadrlarni tayorlash uchun mentor(ustoz) kerak. Yarim kun yoki kun-ora ishlasa ham...",
         "city_id": 1,
         "language_id": 1
     },
@@ -24,42 +24,10 @@
         "language_id": 1
     },
     {
-        "url": "https://tashkent.hh.uz/vacancy/72662248?from=vacancy_search_list&query=python",
-        "title": "Middle+/Senior Python developer",
-        "company": "ProductFit",
-        "description": "Можно из домаСтартап студия (заказная разработка для стартапов с нуля под ключ, технический и продуктовый консалтинг, создание MVP или MLP). ",
-        "city_id": 1,
-        "language_id": 1
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/72127335?from=vacancy_search_list&query=python",
-        "title": "Программист Python",
-        "company": "ООО ARHAT HOLDING",
-        "description": "1. Приобретение товара в рассрочку на оффлайн точках, такие как Mediapark, Texnomart и т.д.Опыт коммерческой разработки на Python (FastApi) от 3-х лет (ООП, многопоточность), в идеале - опыт разработки системы, работающей под высокой...",
-        "city_id": 1,
-        "language_id": 1
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/72543041?from=vacancy_search_list&query=python",
-        "title": "DevOps инженер (Junior)",
-        "company": "ООО Ехpress24",
-        "description": "Умение работать в командной строке Linux. Знание синтаксиса Bash или Python. Базовые представления о работе веб-сервисов и протоколов TCP...",
-        "city_id": 1,
-        "language_id": 1
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/72286050?from=vacancy_search_list&query=python",
-        "title": "Strong Middle Python developer",
-        "company": "QIWI UZBEKISTAN",
-        "description": "Разработка функционала на базе вендорского процессинга. Поддержка и развитие платежных продуктов на базе вендорского процессинга. Обеспечение интеграции с внешними инфосервисами...Hard skills: -Python 3.6+. -Понимание и использование асинхронности. -Понимание мультипоточности. -Владение следующими фреймворками: Flask, FastApi, Starlette. -SQL Alchemy. -",
-        "city_id": 1,
-        "language_id": 1
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/71252015?from=vacancy_search_list&query=python",
-        "title": "Преподаватель Python/Django",
-        "company": "ООО Компьютерная Академия IT STEP",
-        "description": "Обучение слушателей Python/Django. Регулярная проверка домашнего задания. Разработанная и отточенная методика преподавания.Развитие не только теоретических знаний, но и практических умений и навыков Python/Django у слушателей. Отличное знание Python/Django. ",
+        "url": "https://tashkent.hh.uz/vacancy/71677772?from=vacancy_search_list&query=python",
+        "title": "Python Middle+ Developer",
+        "company": "Itransition",
+        "description": "Будьте первыми2,5+ years of experience in IT. Experience in Python web development with any web framework (Django, Flask, etc.). ",
         "city_id": 1,
         "language_id": 1
     },
@@ -72,10 +40,42 @@
         "language_id": 1
     },
     {
-        "url": "https://tashkent.hh.uz/vacancy/55586638?from=vacancy_search_list&query=python",
-        "title": "Your start in IT - QA Automation Training to become an Automation QA Intern",
-        "company": "a1qa",
-        "description": "Можно из домаAutomation tests development. Running tests and analyzing results. Setting up and supporting environment for running automated tests. Communication with the...",
+        "url": "https://tashkent.hh.uz/vacancy/72127335?from=vacancy_search_list&query=python",
+        "title": "Программист Python",
+        "company": "ООО ARHAT HOLDING",
+        "description": "1. Приобретение товара в рассрочку на оффлайн точках, такие как Mediapark, Texnomart и т.д.Опыт коммерческой разработки на Python (FastApi) от 3-х лет (ООП, многопоточность), в идеале - опыт разработки системы, работающей под высокой...",
+        "city_id": 1,
+        "language_id": 1
+    },
+    {
+        "url": "https://tashkent.hh.uz/vacancy/72662248?from=vacancy_search_list&query=python",
+        "title": "Middle+/Senior Python developer",
+        "company": "ProductFit",
+        "description": "Можно из домаСтартап студия (заказная разработка для стартапов с нуля под ключ, технический и продуктовый консалтинг, создание MVP или MLP). ",
+        "city_id": 1,
+        "language_id": 1
+    },
+    {
+        "url": "https://tashkent.hh.uz/vacancy/71877677?from=vacancy_search_list&query=python",
+        "title": "Разработчик уровня Middle/Senior",
+        "company": "OOO SAAS MARKET",
+        "description": "Южно-корейская компания по разработке программного обеспечения в поиске разработчика уровня MIDDLE/SENIOR.Какие навыки нужны: Знание русского и английского языков. Python (обязательно). C++ (обязательно). Другие языки программирования будут большим преимуществом.",
+        "city_id": 1,
+        "language_id": 1
+    },
+    {
+        "url": "https://tashkent.hh.uz/vacancy/72543041?from=vacancy_search_list&query=python",
+        "title": "DevOps инженер (Junior)",
+        "company": "ООО Ехpress24",
+        "description": "Умение работать в командной строке Linux. Знание синтаксиса Bash или Python. Базовые представления о работе веб-сервисов и протоколов TCP...",
+        "city_id": 1,
+        "language_id": 1
+    },
+    {
+        "url": "https://tashkent.hh.uz/vacancy/71252015?from=vacancy_search_list&query=python",
+        "title": "Преподаватель Python/Django",
+        "company": "ООО Компьютерная Академия IT STEP",
+        "description": "Обучение слушателей Python/Django. Регулярная проверка домашнего задания. Разработанная и отточенная методика преподавания.Развитие не только теоретических знаний, но и практических умений и навыков Python/Django у слушателей. Отличное знание Python/Django. ",
         "city_id": 1,
         "language_id": 1
     },
@@ -88,10 +88,10 @@
         "language_id": 1
     },
     {
-        "url": "https://tashkent.hh.uz/vacancy/71877677?from=vacancy_search_list&query=python",
-        "title": "Разработчик уровня Middle/Senior",
-        "company": "OOO SAAS MARKET",
-        "description": "Южно-корейская компания по разработке программного обеспечения в поиске разработчика уровня MIDDLE/SENIOR.Какие навыки нужны: Знание русского и английского языков. Python (обязательно). C++ (обязательно). Другие языки программирования будут большим преимуществом.",
+        "url": "https://tashkent.hh.uz/vacancy/72286050?from=vacancy_search_list&query=python",
+        "title": "Strong Middle Python developer",
+        "company": "QIWI UZBEKISTAN",
+        "description": "Разработка функционала на базе вендорского процессинга. Поддержка и развитие платежных продуктов на базе вендорского процессинга. Обеспечение интеграции с внешними инфосервисами...Hard skills: -Python 3.6+. -Понимание и использование асинхронности. -Понимание мультипоточности. -Владение следующими фреймворками: Flask, FastApi, Starlette. -SQL Alchemy. -",
         "city_id": 1,
         "language_id": 1
     },
@@ -112,18 +112,18 @@
         "language_id": 1
     },
     {
-        "url": "https://tashkent.hh.uz/vacancy/72183249?from=vacancy_search_list&query=python",
-        "title": "Преподаватель по Python в учебный центр",
-        "company": "ООО TEHNIKUM CODE",
-        "description": "Проведение занятий. Частичная проверка домашних заданий. Коммуникация со студентами вашей группы в телеграм. Обновление и адаптация программы.Python. Flask. Docker. PostgreSQL. Git. Опыт создания Restful API. Русский язык в совершенстве.",
-        "city_id": 1,
-        "language_id": 1
-    },
-    {
         "url": "https://tashkent.hh.uz/vacancy/71037989?from=vacancy_search_list&query=python",
         "title": "Senior Python Developer",
         "company": "iTechArt Group",
         "description": "Участие в полном цикле разработки программного обеспечения. Написание высококачественного кода на Python. Проведение code review. Общение напрямую с англоязычными заказчиками....Pandas и др. Разговорный английский язык не ниже Intermediate уровня. В курсе последних технических достижений в области разработки на Python.",
+        "city_id": 1,
+        "language_id": 1
+    },
+    {
+        "url": "https://tashkent.hh.uz/vacancy/72183249?from=vacancy_search_list&query=python",
+        "title": "Преподаватель по Python в учебный центр",
+        "company": "ООО TEHNIKUM CODE",
+        "description": "Проведение занятий. Частичная проверка домашних заданий. Коммуникация со студентами вашей группы в телеграм. Обновление и адаптация программы.Python. Flask. Docker. PostgreSQL. Git. Опыт создания Restful API. Русский язык в совершенстве.",
         "city_id": 1,
         "language_id": 1
     },
@@ -144,10 +144,10 @@
         "language_id": 1
     },
     {
-        "url": "https://tashkent.hh.uz/vacancy/71677772?from=vacancy_search_list&query=python",
-        "title": "Python Middle+ Developer",
-        "company": "Itransition",
-        "description": "2,5+ years of experience in IT. Experience in Python web development with any web framework (Django, Flask, etc.). ",
+        "url": "https://tashkent.hh.uz/vacancy/72410690?from=vacancy_search_list&query=python",
+        "title": "Data scientist Neuron network",
+        "company": "Rochwin",
+        "description": "Работа с данными в нейронных сетях. Сортировка данных. Программировать на языке Python. Извлекать данные, обрабатывать их, сортировать полученные данные, передавать...Опыт работы c Google, Yandex метриками. Знание вычислительной математики.",
         "city_id": 1,
         "language_id": 1
     },
