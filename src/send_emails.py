@@ -29,11 +29,14 @@ for item in qs:
 if users_dict:
     params = {'city_id__in': [], 'language_id__in': []}
     for pair in users_dict.keys():
+        print(pair)
         params['city_id__in'].append(pair[0])
         params['language_id__in'].append(pair[1])
-    qs = Vacancy.objects.filter(**params, timestamp=today).values()[:10]
+    qs = Vacancy.objects.filter(**params).values()[:10]
     vacancies = {}
+    print(qs)
     for item in qs:
+        print(item)
         vacancies.setdefault((item['city_id'], item['language_id']), [])
         vacancies[(item['city_id'], item['language_id'])].append(item)
     for keys, emails in users_dict.items():

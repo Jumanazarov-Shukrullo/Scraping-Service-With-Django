@@ -1,4 +1,5 @@
 import asyncio
+import codecs
 import os
 import sys
 import datetime as dt
@@ -17,7 +18,7 @@ from scraping.parser import *
 from scraping.models import (
     Url,
     Vacancy,
-    Error
+    Error, City, Language
 )
 
 User = get_user_model()
@@ -49,11 +50,14 @@ async def main(value):
     errors.extend(err)
     jobs.extend(jo)
 
+
 settings = get_settings()
 url_list = get_urls(settings)
-# city = City.objects.filter(slug='tashkent').first()
-# language = Language.objects.filter(slug='python').first()
+city = City.objects.filter(slug='tashkent').first()
+language = Language.objects.filter(slug='java').first()
+print(language)
 import time
+
 
 start = time.time()
 
@@ -64,22 +68,25 @@ tmp_tasks = [(
     for func, key in parsers
 ]
 tasks = asyncio.wait([loop.create_task(main(f)) for f in tmp_tasks])
+print(url_list)
+for data in url_list:
+    for func, key in parsers:
+        url = data['url_data'][key]
+        print(url)
+        j, e = func(url, city=data['city'], language=data['language'])
+        jobs += j
+        errors += e
 
-# for data in url_list:
-#     for func, key in parsers:
-#         url = data['url_data'][key]
-#         j, e = func(url, city=data['city'], language=data['language'])
-#         jobs += j
-#         errors += e
 loop.run_until_complete(tasks)
 loop.close()
 print(time.time() - start)
 for job in jobs:
+    # print(job)
     v = Vacancy(**job)
     try:
         v.save()
     except DatabaseError:
-        pass
+            pass
 if errors:
     qs = Error.objects.filter(timestamp=dt.date.today())
     if qs.exists():
@@ -88,6 +95,6 @@ if errors:
         err.save()
     else:
         err = Error(data=f'errors:{errors}').save()
-# h = codecs.open('work.txt', 'w', 'utf-8')
-# h.write(str(jobs))
-# h.close()
+h = codecs.open('work.txt', 'w', 'utf-8')
+h.write(str(jobs))
+h.close()

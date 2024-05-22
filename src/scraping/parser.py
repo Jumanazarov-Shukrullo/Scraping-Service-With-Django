@@ -3,10 +3,10 @@ import json
 
 import requests
 from bs4 import BeautifulSoup
-# import lxml
+import lxml
 from random import randint
 
-__all__ = ('hh_uz', )
+__all__ = ('hh_uz',)
 
 headers = [
     {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 '
@@ -42,22 +42,26 @@ def hh_uz(ur, city=None, language=None):
             soup = BeautifulSoup(src, 'lxml')
             main_div = soup.find('div', {'id': 'a11y-main-content'})
             if main_div:
-                # count = 0
                 div_lst = soup.find_all('div', class_='serp-item')
                 for div in div_lst:
-                    h3 = div.find('h3')
+                    h3 = div.find('span', class_='serp-item__title-link-wrapper')
                     href = h3.a['href']
-                    company = div.find('div', class_='vacancy-serp-item__meta-info-company')
+                    with open('a.html', 'w') as f:
+                       f.write(requests.get(href).text)
+
+                    company = div.find('span', class_=lambda x: x and x.startswith('company-info-text'))
+                    if company is not None:
+                        company = company.text
+                   
                     # place = div.find_all('div', class_='bloko-text')[1].text
-                    content1 = div.find_all('div', class_='bloko-text')[2].text
-                    content2 = ''
-                    if len(div.find_all('div', class_='bloko-text')) > 3:
-                        content2 = div.find_all('div', class_='bloko-text')[3].text
-                    # print(company.text)
-                    # print(content1 + content2)
+                    content = div.find('div', class_=lambda x: x and x.startswith('compensation-labels'))
+                    content1 = ''
+                    for cont in content:
+                        content1 += cont.text
+                        content1 += "\t|\t"
                     data_jobs.append(
-                        {'url': href, 'title': h3.text, 'company': company.text,
-                         'description': content1 + content2,
+                        {'url': href, 'title': h3.text, 'company': company,
+                         'description': content1,
                          'city_id': city, 'language_id': language
                          }
                     )
@@ -72,7 +76,7 @@ def hh_uz(ur, city=None, language=None):
 
 
 if __name__ == '__main__':
-    url = 'https://tashkent.hh.uz/search/vacancy?text=python&from=suggest_post&area=2759'
+    url = 'https://tashkent.hh.uz/search/vacancy?text=java&from=suggest_post&area=2759'
     jobs, errors = hh_uz(url)
     h = codecs.open('work.txt', 'w', 'utf-8')
     h.write(str(jobs))

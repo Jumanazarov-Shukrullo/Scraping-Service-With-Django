@@ -1,4 +1,3 @@
-# import jsonfield
 import jsonfield as jsonfield
 from django.db import models
 from django.template.defaultfilters import slugify
@@ -47,6 +46,7 @@ class Vacancy(models.Model):
     title = models.CharField(max_length=250, verbose_name='title')
     company = models.CharField(max_length=250, verbose_name='Company name')
     description = models.TextField(verbose_name='Description')
+    body = models.TextField(verbose_name='Body')
     city = models.ForeignKey(City, on_delete=models.CASCADE, verbose_name='Enter City')
     language = models.ForeignKey(Language, on_delete=models.CASCADE, verbose_name='Programming Language')
     timestamp = models.DateTimeField(auto_now_add=True)

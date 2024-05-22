@@ -5,7 +5,7 @@ from django.contrib.auth import get_user_model
 from django.contrib.auth import login, logout, authenticate
 from django.shortcuts import render, redirect
 
-from accounts.forms import UserLoginForm, UserCreationForm, UserUpdateForm, ContactForm
+from .forms import UserLoginForm, UserCreationForm, UserUpdateForm, ContactForm
 from scraping.models import Error
 
 User = get_user_model()
