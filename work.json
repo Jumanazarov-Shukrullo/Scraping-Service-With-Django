@@ -8,6 +8,30 @@
         "language_id": 2
     },
     {
+        "url": "https://tashkent.hh.uz/vacancy/99858005?query=java&hhtmFrom=vacancy_search_list",
+        "title": "Junior java back-end",
+        "company": "ООО SMARTBOX ENTERPRISE SOLUTIONS",
+        "description": "Опыт 1-3 года\t|\t",
+        "city_id": 1,
+        "language_id": 2
+    },
+    {
+        "url": "https://tashkent.hh.uz/vacancy/99827048?query=java&hhtmFrom=vacancy_search_list",
+        "title": "Senior Java developer",
+        "company": "ООО SMARTBOX ENTERPRISE SOLUTIONS",
+        "description": "Без опыта\t|\t",
+        "city_id": 1,
+        "language_id": 2
+    },
+    {
+        "url": "https://tashkent.hh.uz/vacancy/98552149?query=java&hhtmFrom=vacancy_search_list",
+        "title": "Java + Python Продакт Разработчик AIxWEB3 (Удаленно)",
+        "company": "LATOKEN",
+        "description": "2 000 – 3 000 $ на руки\t|\tОпыт 3-6 лет\t|\tМожно удалённо\t|\t",
+        "city_id": 1,
+        "language_id": 2
+    },
+    {
         "url": "https://tashkent.hh.uz/vacancy/99677424?query=java&hhtmFrom=vacancy_search_list",
         "title": "Senior Java разработчик",
         "company": "АО Solutions Lab",
@@ -28,14 +52,6 @@
         "title": "Middle/Senior Java Software Engineer",
         "company": "ООО «UZUM TECHNOLOGIES».",
         "description": "Опыт 3-6 лет\t|\t",
-        "city_id": 1,
-        "language_id": 2
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/98552149?query=java&hhtmFrom=vacancy_search_list",
-        "title": "Java + Python Продакт Разработчик AIxWEB3 (Удаленно)",
-        "company": "LATOKEN",
-        "description": "2 000 – 3 000 $ на руки\t|\tОпыт 3-6 лет\t|\tМожно удалённо\t|\t",
         "city_id": 1,
         "language_id": 2
     },
@@ -80,6 +96,22 @@
         "language_id": 2
     },
     {
+        "url": "https://tashkent.hh.uz/vacancy/99468927?query=java&hhtmFrom=vacancy_search_list",
+        "title": "Python разработчик",
+        "company": "ООО Tafakkur Group",
+        "description": "от 6 000 000 so'm на руки\t|\tОпыт 1-3 года\t|\t",
+        "city_id": 1,
+        "language_id": 2
+    },
+    {
+        "url": "https://tashkent.hh.uz/vacancy/99802531?query=java&hhtmFrom=vacancy_search_list",
+        "title": "DevOps Engineer",
+        "company": "АО YANGI BANK",
+        "description": "Опыт 1-3 года\t|\t",
+        "city_id": 1,
+        "language_id": 2
+    },
+    {
         "url": "https://tashkent.hh.uz/vacancy/98585339?query=java&hhtmFrom=vacancy_search_list",
         "title": "PHP Backend разработчик",
         "company": "ООО ALPHAZET TECHNOLOGIES",
@@ -88,10 +120,10 @@
         "language_id": 2
     },
     {
-        "url": "https://tashkent.hh.uz/vacancy/93622177?query=java&hhtmFrom=vacancy_search_list",
-        "title": "Business analyst",
-        "company": "АО Solutions Lab",
-        "description": "Опыт 1-3 года\t|\t",
+        "url": "https://tashkent.hh.uz/vacancy/97687249?query=java&hhtmFrom=vacancy_search_list",
+        "title": "Бизнес-аналитик (ELMA365)",
+        "company": "ООО «UZUM TECHNOLOGIES».",
+        "description": "Опыт 3-6 лет\t|\t",
         "city_id": 1,
         "language_id": 2
     },
@@ -100,6 +132,14 @@
         "title": "QA Engineer",
         "company": "ООО OCTO",
         "description": "Опыт 3-6 лет\t|\t",
+        "city_id": 1,
+        "language_id": 2
+    },
+    {
+        "url": "https://tashkent.hh.uz/vacancy/93622177?query=java&hhtmFrom=vacancy_search_list",
+        "title": "Business analyst",
+        "company": "АО Solutions Lab",
+        "description": "Опыт 1-3 года\t|\t",
         "city_id": 1,
         "language_id": 2
     },
@@ -116,46 +156,6 @@
         "title": "Middle+/Senior React Native Developer",
         "company": "ООО U-Win Solutions",
         "description": "Опыт более 6 лет\t|\t",
-        "city_id": 1,
-        "language_id": 2
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/95633162?query=java&hhtmFrom=vacancy_search_list",
-        "title": "Продакт Разработчик Growth React/Node.js Full stack (Удаленно)",
-        "company": "LATOKEN",
-        "description": "2 500 – 3 200 $ на руки\t|\tОпыт 3-6 лет\t|\tМожно удалённо\t|\t",
-        "city_id": 1,
-        "language_id": 2
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/98298789?query=java&hhtmFrom=vacancy_search_list",
-        "title": "BI аналитик",
-        "company": "ООО CRPT TURON",
-        "description": "Опыт 3-6 лет\t|\t",
-        "city_id": 1,
-        "language_id": 2
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/99468927?query=java&hhtmFrom=vacancy_search_list",
-        "title": "Python разработчик",
-        "company": "ООО Tafakkur Group",
-        "description": "от 6 000 000 so'm на руки\t|\tОпыт 1-3 года\t|\t",
-        "city_id": 1,
-        "language_id": 2
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/99285283?query=java&hhtmFrom=vacancy_search_list",
-        "title": "DevOPS engineer",
-        "company": "ООО «UZUM TECHNOLOGIES».",
-        "description": "Опыт 3-6 лет\t|\t",
-        "city_id": 1,
-        "language_id": 2
-    },
-    {
-        "url": "https://tashkent.hh.uz/vacancy/95125946?query=java&hhtmFrom=vacancy_search_list",
-        "title": "Auto QA engineer / QA-автоматизатор",
-        "company": "ООО UZPAYNET",
-        "description": "Опыт 3-6 лет\t|\t",
         "city_id": 1,
         "language_id": 2
     }

@@ -6,7 +6,7 @@ charset-normalizer==3.3.2
 Django==5.0.6
 idna==3.7
 jsonfield==3.1.0
-lxml==5.2.2
+lxml
 python-dotenv==1.0.1
 requests==2.31.0
 soupsieve==2.5

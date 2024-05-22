@@ -2,15 +2,11 @@ version: '3.8'
 
 services:
   web:
-    build: ./
+    image: my-django-app
     command: python manage.py runserver 0.0.0.0:8000
-    volumes:
-      - ./:/usr/src/app
     ports:
       - "8000:8000"
     depends_on:
-      - db
-    links:
       - db
     networks:
       - django_net
@@ -18,9 +14,7 @@ services:
       - ./.env
 
   db:
-    image: postgres
-    ports:
-      - 5422:5422
+    image: postgres:latest
     networks:
       - django_net
     env_file:

@@ -1,0 +1,17 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: debug
+spec:
+  containers:
+  - name: debug
+    image: busybox
+    command: ["sleep", "3600"]
+    volumeMounts:
+    - name: app-volume
+      mountPath: /usr/src/app
+  volumes:
+  - name: app-volume
+    persistentVolumeClaim:
+      claimName: app-pvc
+

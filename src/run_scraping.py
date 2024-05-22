@@ -54,7 +54,7 @@ async def main(value):
 settings = get_settings()
 url_list = get_urls(settings)
 city = City.objects.filter(slug='tashkent').first()
-language = Language.objects.filter(slug='java').first()
+language = Language.objects.filter(slug='python').first()
 print(language)
 import time
 
