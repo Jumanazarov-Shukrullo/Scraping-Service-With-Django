@@ -124,4 +124,4 @@ CSRF_COOKIE_SECURE = True
 SECURE_SSL_REDIRECT = False
 
 CORS_ALLOW_ALL_ORIGINS = True
-CSRF_TRUSTED_ORIGINS = ['https://scraping-service.up.railway.app/']
+CSRF_TRUSTED_ORIGINS = ['https://scraping-service.up.railway.app:8080']
