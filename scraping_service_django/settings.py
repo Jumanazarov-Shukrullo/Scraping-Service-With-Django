@@ -13,7 +13,7 @@ SECRET_KEY = 'my-secret-key'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['scraping-service.up.railway.app']
 # Application definition
 
 INSTALLED_APPS = [
