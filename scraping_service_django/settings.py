@@ -13,7 +13,7 @@ SECRET_KEY = 'my-secret-key'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['scraping-service.up.railway.app']
+ALLOWED_HOSTS = ['scraping-service.up.railway.app', 'localhost', '127.0.0.1']
 # Application definition
 
 INSTALLED_APPS = [
@@ -119,4 +119,9 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'static')
 ]
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+SESSION_COOKIE_SECURE = True
+CSRF_COOKIE_SECURE = True
+SECURE_SSL_REDIRECT = False
+
+CORS_ALLOW_ALL_ORIGINS = True
 CSRF_TRUSTED_ORIGINS = ['https://scraping-service.up.railway.app/']
