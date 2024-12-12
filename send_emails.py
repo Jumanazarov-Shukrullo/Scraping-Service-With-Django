@@ -29,14 +29,11 @@ for item in qs:
 if users_dict:
     params = {'city_id__in': [], 'language_id__in': []}
     for pair in users_dict.keys():
-        print(pair)
         params['city_id__in'].append(pair[0])
         params['language_id__in'].append(pair[1])
     qs = Vacancy.objects.filter(**params).values()[:10]
     vacancies = {}
-    print(qs)
     for item in qs:
-        print(item)
         vacancies.setdefault((item['city_id'], item['language_id']), [])
         vacancies[(item['city_id'], item['language_id'])].append(item)
     for keys, emails in users_dict.items():
@@ -53,7 +50,6 @@ if users_dict:
                                          [to])
             msg.attach_alternative(_html, 'text/html')
             msg.send()
-            print('Done!')
 qs = Error.objects.filter(timestamp=today)
 subject = ''
 text_content = ''
@@ -76,7 +72,6 @@ if qs.exists():
                                  [to])
     msg.attach_alternative(_html, 'text/html')
     msg.send()
-    print('Done!')
 
 qs = Url.objects.all().values('city', 'language')
 urls_dict = {(item['city'], item['language']): True for item in qs}
@@ -92,4 +87,3 @@ if subject:
                                  [to])
     msg.attach_alternative(_html, 'text/html')
     msg.send()
-    print('Done!')

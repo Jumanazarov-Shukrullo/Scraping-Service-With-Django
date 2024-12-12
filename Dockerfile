@@ -5,6 +5,8 @@ FROM python:3.11.4
 # set work directory
 WORKDIR /usr/src/app
 
+RUN apt update
+RUN apt install libpq-dev
 # set environment variables
 ENV PYTHONDONTWRITEBYTECODE 1
 ENV PYTHONUNBUFFERED 1
