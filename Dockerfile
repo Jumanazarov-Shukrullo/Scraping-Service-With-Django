@@ -1,21 +1,26 @@
-# pull oficial base image
-FROM python:3.11.4
+# Use an official Python runtime as the base image
+FROM python:3.11-slim
 
-
-# set work directory
+# Set the working directory in the container
 WORKDIR /usr/src/app
 
-RUN apt update
-RUN apt install -y libpq-dev
-# set environment variables
+# Install system dependencies
+RUN apt update && apt install -y libpq-dev gcc
+
+# Set environment variables
 ENV PYTHONDONTWRITEBYTECODE 1
 ENV PYTHONUNBUFFERED 1
 
-
-# install dependencies
+# Install Python dependencies
+COPY requirements.txt .
 RUN pip install --upgrade pip
-COPY ./requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# copy project
+# Copy the project files to the working directory
 COPY . .
+
+# Collect static files (optional, if your app uses static files)
+RUN python manage.py collectstatic --no-input
+
+# Set the command to run the application
+CMD ["gunicorn", "--bind", "0.0.0.0:8080", "scraping_service_django.wsgi:application"]
